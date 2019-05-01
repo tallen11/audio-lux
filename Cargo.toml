@@ -1,0 +1,7 @@
+[package]
+name = "audio-lux"
+version = "0.1.0"
+authors = ["Tate Allen"]
+edition = "2018"
+
+[dependencies]
